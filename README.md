@@ -1,6 +1,6 @@
 # Welcome to Edu-tech
 데이터 분석, 교수-학습 설계, 
-https://250812-maker.github.io/Sun-s-portfolio_1/index1
+https://250812-maker.github.io/Sun-s-portfolio_1/index1.html
 
 ## 보유 역량
 AI 활용, OA
@@ -15,4 +15,4 @@ LMS 운영
 OPIc(IH)
 
 ## QR CODE
-https://250812-maker.github.io/Sun-s-portfolio_1/ORG
+https://250812-maker.github.io/Sun-s-portfolio_1/ORG.html
